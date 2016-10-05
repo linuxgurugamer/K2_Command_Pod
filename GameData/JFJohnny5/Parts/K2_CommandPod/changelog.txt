@@ -1,0 +1,20 @@
+v 1.3.1
+- Had mistakenly left out a small window texture file
+
+v 1.3
+- Added IVA
+- Converted textures to DDS
+- Moved 1 tier earlier in tech tree
+- Tweaked flag decal to fix z-fighting issue
+
+v1.2.1
+- Added license information to download
+
+v1.2
+- Updated to KSP 1.0
+
+v1.1
+Minor adjustments to the capsule texture (a shade lighter overall)
+
+v1.0
+Initial release
