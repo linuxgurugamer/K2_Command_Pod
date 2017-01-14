@@ -19,8 +19,13 @@ The K2 pod unlocks with the *Advanced Flight Control* tech. It is balanced to en
 * Official Download Locations:
   * [SpaceDock][3]
   * [CurseForge][4]
+  * [Github][5]
+
 
 [1]: http://kerbalspaceprogram.com
-[2]: http://forum.kerbalspaceprogram.com/index.php?/topic/94581-112-k2-command-pod-two-kerbal-stock-alike-pod-v14/
-[3]: http://spacedock.info/mod/700/K2%20Command%20Pod
-[4]: https://kerbal.curseforge.com/projects/k2-command-pod
+[2]: (original thread): http://forum.kerbalspaceprogram.com/index.php?/topic/94581-112-k2-command-pod-two-kerbal-stock-alike-pod-v14/
+[2]: http://forum.kerbalspaceprogram.com/index.php?/topic/155013-12-k2-command-pod-two-kerbal-stock-alike-pod/
+[3]: (for 1.1.3):http://spacedock.info/mod/700/K2%20Command%20Pod
+[3]: http://spacedock.info/mod/1163/K2%20Command%20Pod%20Continued
+[4]: (for 1.1.3): https://kerbal.curseforge.com/projects/k2-command-pod
+[5]: https://github.com/linuxgurugamer/K2_Command_Pod
