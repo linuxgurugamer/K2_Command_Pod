@@ -4,7 +4,7 @@ A 2-Kerbal Command Pod for [Kerbal Space Program][1] (by JFJohnny5).
 ## Overview
 This mod adds a single part, the **K2 Command Pod**. This pod supports 2 Kerbals (*but only requires 1 - making it handy for rescue missions*). This allows you to send pilots and engineers/scientists on missions together, prior to unlocking the Mk 1-2 pod. 
 
-The K2 pod unlocks with the *Advanced Flight Control* tech. It is balanced to encourage a good base of initial single-Kerbal missions before stepping up to two-Kerbal missions, where you can start training your engineers and scientists to prep for larger missions in the future.
+The K2 pod unlocks with the *Flight Control* tech. It is balanced to encourage a good base of initial single-Kerbal missions before stepping up to two-Kerbal missions, where you can start training your engineers and scientists to prep for larger missions in the future.
 
 ## Features
 * Support for 2 Kerbals (min. 1)

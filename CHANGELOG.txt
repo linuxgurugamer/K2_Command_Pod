@@ -1,3 +1,19 @@
+Linuxgurugamer Fork
+
+1.1.5
+- Initial release for 1.2.2
+
+1.1.6
+- Added support for the Community Tech Tree
+
+1.1.7
+- Added RealFuels cfg
+ 
+
+1.1.8
+- Changed tech node to FlightControl
+
+==========
 v 1.4
 - Updated for KSP 1.1.2
 
