@@ -13,6 +13,9 @@ Linuxgurugamer Fork
 1.1.8
 - Changed tech node to FlightControl
 
+1.1.8.1
+- Fixed patch for ConnectedLivingSpace (wasn't working)
+
 ==========
 v 1.4
 - Updated for KSP 1.1.2
