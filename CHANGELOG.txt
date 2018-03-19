@@ -17,6 +17,9 @@ Linuxgurugamer Fork
 - Fixed patch for ConnectedLivingSpace (wasn't working)
 
 1.1.8.2
+	Updated for 1.3
+
+1.1.8.3
 	Added optional patch to make pod a 1.825m size
 	Updated version file for 1.4.1
 
