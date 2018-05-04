@@ -21,6 +21,7 @@ set HOMEDRIVE=%HOMEDIR:~0,2%
 )
 
 set VERSIONFILE=K2.version
+copy K2.version GameData\JFJohnny5
 rem The following requires the JQ program, available here: https://stedolan.github.io/jq/download/
 c:\local\jq-win64  ".VERSION.MAJOR" %VERSIONFILE% >tmpfile
 set /P major=<tmpfile

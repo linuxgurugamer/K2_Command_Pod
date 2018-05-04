@@ -22,7 +22,10 @@ Linuxgurugamer Fork
 1.1.8.3
 	Added optional patch to make pod a 1.825m size
 	Updated version file for 1.4.1
-
+1.1.8.4
+	Updated version file
+	Added Jenkins config
+	Renamed Extras directory to K2_Extras
 ==========
 v 1.4
 - Updated for KSP 1.1.2

@@ -1,29 +1,30 @@
 {
-	"NAME":"K2CommandPodContinued",
-	"URL":"http://ksp-avc.cybutek.net/version.php?id=428",
-	"VERSION":
-	{
-		"MAJOR":1,
-		"MINOR":1,
-		"PATCH":8,
-		"BUILD":3
-	},
-	"KSP_VERSION":
-	{
-		"MAJOR":1,
-		"MINOR":2,
-		"PATCH":0
-	},
-	"KSP_VERSION_MIN":
-	{
-		"MAJOR":1,
-		"MINOR":2,
-		"PATCH":0
-	},
-	"KSP_VERSION_MAX":
-	{
-		"MAJOR":1,
-		"MINOR":4,
-		"PATCH":99
-	}
+    "NAME": "K2CommandPodContinued",
+    "URL": "https://raw.githubusercontent.com/linuxgurugamer/K2_Command_Pod/master/K2.version",
+    "DOWNLOAD": "https://github.com/linuxgurugamer/K2_Command_Pod/releases",
+    "GITHUB": {
+        "USERNAME": "linuxgurugamer",
+        "REPOSITORY": "K2_Command_Pod"
+    },
+    "VERSION": {
+        "MAJOR": 1,
+        "MINOR": 1,
+        "PATCH": 8,
+        "BUILD": 4
+    },
+    "KSP_VERSION": {
+        "MAJOR": 1,
+        "MINOR": 2,
+        "PATCH": 0
+    },
+    "KSP_VERSION_MIN": {
+        "MAJOR": 1,
+        "MINOR": 2,
+        "PATCH": 0
+    },
+    "KSP_VERSION_MAX": {
+        "MAJOR": 1,
+        "MINOR": 4,
+        "PATCH": 99
+    }
 }
