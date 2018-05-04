@@ -25,7 +25,7 @@
 # 0:1.3
 
 # 1:GAMEDIR, VERSIONFILE [, GITHUBREPO ]
-1:JFJohnny5, K2.version
+1:JFJohnny5, K2.version,K2_Command_Pod
 
 # 3:SOURCEFILE, DESTDIR
 3:K2.version,GameData/JFJohnny5
