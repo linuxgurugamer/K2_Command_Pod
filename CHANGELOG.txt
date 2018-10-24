@@ -1,5 +1,36 @@
 Linuxgurugamer Fork
 
+1.1.8.5
+	Version bump for 1.5 rebuild
+	
+1.1.8.4
+	Updated version file
+	Added Jenkins config
+	Renamed Extras directory to K2_Extra
+
+1.1.8.3
+	Added optional patch to make pod a 1.825m size
+	Updated version file for 1.4.
+
+1.1.8.2
+	Updated for 1.3
+
+
+1.1.8.1
+	Fixed patch for ConnectedLivingSpace (wasn't working)
+
+1.1.8
+	Changed tech required to flightControl
+	
+1.1.7
+	Added RealFuels cfg
+	
+1.1.6
+	Add support for Community Tech Tree
+		When Community Tech Tree is installed, the K2 Command Pod will 
+		be placed under the Simple Command Modules tech tree node.
+
+
 1.1.5
 - Initial release for 1.2.2
 
