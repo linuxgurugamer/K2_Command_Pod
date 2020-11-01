@@ -1,5 +1,14 @@
 Linuxgurugamer Fork
 
+1.1.10
+	Copied config to new part with default size to be 1.875m instead of 1.25
+	Make new part to be roughly equivilant to the stock mk1-3
+	Made original into "Hidden" so it won't show up in the editor any more
+	Created patch to remove the Hidden option from the 1.25m part if desired
+	Updated the science experiment to use same localization as the stock in both parts
+	Moved MM patches into their own directory
+	Updated MM patches to work with the new part
+	
 1.1.9
 	Updated for KSP 1.8
 

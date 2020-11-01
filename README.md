@@ -6,6 +6,17 @@ This mod adds a single part, the **K2 Command Pod**. This pod supports 2 Kerbals
 
 The K2 pod unlocks with the *Flight Control* tech. It is balanced to encourage a good base of initial single-Kerbal missions before stepping up to two-Kerbal missions, where you can start training your engineers and scientists to prep for larger missions in the future.
 
+The current version , as of mod version 1.1.10, now has a diameter of 1.875, and the old 1.25 is deprecated
+
+## Features of the 1.875 part
+* Support for 2 Kerbals (min. 1)
+* Fully functional IVA
+* Stock-alike style *inspired* by the Gemini capsule
+* 1.875m size with a top 1.25m node
+* Balanced to fit alongside the stock mk1-3 part
+* Module Manager configs (included) supports TAC Life Support and Connected Living Spaces
+
+
 ## Features
 * Support for 2 Kerbals (min. 1)
 * Fully functional IVA
