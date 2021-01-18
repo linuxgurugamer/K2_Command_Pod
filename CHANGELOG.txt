@@ -1,5 +1,8 @@
 Linuxgurugamer Fork
 
+1.1.10.1
+	Disabled TAC-LC patch, not needed
+
 1.1.10
 	Copied config to new part with default size to be 1.875m instead of 1.25
 	Make new part to be roughly equivilant to the stock mk1-3
