@@ -45,7 +45,6 @@ echo Version:  %VERSION%
 rem set /p newVERSION= "Enter version: "
 rem if "%newVERSION" NEQ "" set VERSION=%newVERSION%
 
-copy ..\MiniAVC.dll GameData\JFJohnny5
 copy README.md GameData\JFJohnny5
 copy K2.version GameData\JFJohnny5
 copy LICENSE.txt GameData\JFJohnny5
