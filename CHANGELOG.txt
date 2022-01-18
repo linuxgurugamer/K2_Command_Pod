@@ -1,5 +1,8 @@
 Linuxgurugamer Fork
 
+1.1.11.1
+	Removed left over zip and readme file
+
 1.1.11
 	Thanks to @ColdJ for this:
 		Added emissives to module

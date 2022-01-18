@@ -1,4 +1,0 @@
-Hi.
-Read a comment on the forum about someone wanting light up windows in the K2 pod mod that you manage, but you were too busy to do. So used it to help me figure out some of the texture settings in the 3D program. I have upgraded the model so that the skin and the window textures now have emissives. Added in a skin Emissive texture and a Window emissive texture. Then edited the config files so that they can use the emissives to turn the lights on. If you delete the 2 texture files in the original folder, 2k_Pod.dds and WindowColor 1.mbm, and put the images I have provided in instead, as well as replace the 2 capsule configs (not the IVA one) with mine. Then they will use the new *.mu file I have given you. It has an underscore space in the title to differentiate from the original.
-I hope this is of use to you.
-ColdJ.
