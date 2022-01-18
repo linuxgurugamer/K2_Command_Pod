@@ -1,5 +1,10 @@
 Linuxgurugamer Fork
 
+1.1.11
+	Thanks to @ColdJ for this:
+		Added emissives to module
+		Added Window emissives to turn lights on
+
 1.1.10.2
 	Unhid the 1.25 version of the part
 

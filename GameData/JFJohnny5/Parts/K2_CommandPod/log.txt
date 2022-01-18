@@ -1,0 +1,41 @@
+-----
+Folder infos : 
+MBM files count : 0
+TGA files count : 0
+PNG files count : 4
+Backup files count : 0
+-----
+-----
+Starting conversion of 4 files.
+    MBM count : 0.
+    TGA count : 0.
+    PNG count : 4.
+0 files excluded, 0 files without mipmaps. 0 files will skip normal detection.0 files will not be resized.
+-----
+LOG : Converting D:\Users\jbb\github\K2_Command_Pod\GameData\JFJohnny5\Parts\K2_CommandPod\2K_Pod.png to D:\Users\jbb\github\K2_Command_Pod\GameData\JFJohnny5\Parts\K2_CommandPod\2K_Pod.dds
+    Format : Dxt1, normalmap : False, res: 1024x1024
+Flipping image...
+FlipImage took 13.7524003982544ms
+Image conversion took 307.687713623047ms
+---
+LOG : Converting D:\Users\jbb\github\K2_Command_Pod\GameData\JFJohnny5\Parts\K2_CommandPod\2K_PodE.png to D:\Users\jbb\github\K2_Command_Pod\GameData\JFJohnny5\Parts\K2_CommandPod\2K_PodE.dds
+    Format : Dxt1, normalmap : False, res: 1024x1024
+Flipping image...
+FlipImage took 7.36560010910034ms
+Image conversion took 261.943115234375ms
+---
+LOG : Converting D:\Users\jbb\github\K2_Command_Pod\GameData\JFJohnny5\Parts\K2_CommandPod\WindowColor 1.png to D:\Users\jbb\github\K2_Command_Pod\GameData\JFJohnny5\Parts\K2_CommandPod\WindowColor 1.dds
+LOG : Resolution is considered too low for DXT compression. DISABLING MIPMAPS!
+    Format : Dxt1, normalmap : False, res: 32x32
+Flipping image...
+FlipImage took 0.321000009775162ms
+Image conversion took 61.0983009338379ms
+---
+LOG : Converting D:\Users\jbb\github\K2_Command_Pod\GameData\JFJohnny5\Parts\K2_CommandPod\WindowColor E.png to D:\Users\jbb\github\K2_Command_Pod\GameData\JFJohnny5\Parts\K2_CommandPod\WindowColor E.dds
+LOG : Resolution is considered too low for DXT compression. DISABLING MIPMAPS!
+ERR : Unknown file format P8, skipping conversion for D:\Users\jbb\github\K2_Command_Pod\GameData\JFJohnny5\Parts\K2_CommandPod\WindowColor E.png
+---
+-----
+Conversion done! 4 files processed in 762.960571289063ms.
+1 files skipped, check log.txt for more informations.
+-----
