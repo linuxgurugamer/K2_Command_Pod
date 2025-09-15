@@ -1,5 +1,8 @@
 Linuxgurugamer Fork
 
+1.1.11.2
+	Updated version file to use github for new version information
+	
 1.1.11.1
 	Removed left over zip and readme file
 
